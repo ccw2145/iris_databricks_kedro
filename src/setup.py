@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 entry_point = (
-    "iris-databricks = iris_packages.__main__:main"
+    "iris_databricks_kedro = iris_packages.__main__:main"
 )
 
 
